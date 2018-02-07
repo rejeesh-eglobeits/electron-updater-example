@@ -1,0 +1,9 @@
+version: 0.5.0
+files:
+  - url: electron-updater-example-setup-0.5.0.exe
+    sha512: gw52XegiVLLpwixXMbdNzY2yK83LNFbJjvK1XztNa8LmcLXljEO/52p7ZSnytgoh+BH1f6ed26rnZz8XnepoTw==
+    size: 38082536
+path: electron-updater-example-setup-0.5.0.exe
+sha512: gw52XegiVLLpwixXMbdNzY2yK83LNFbJjvK1XztNa8LmcLXljEO/52p7ZSnytgoh+BH1f6ed26rnZz8XnepoTw==
+sha2: 9bd3209d056fd02bfeda541a5cb13e2e902357f313919128908efe4bafe6a893
+releaseDate: '2018-02-07T14:28:44.082Z'
